@@ -1,4 +1,4 @@
-### <u> _Issue 01 - Fix Docker Container DNS Resolution Failures_ </u>
+### _Issue 01 - Fix Docker Container DNS Resolution Failures_
 ###### Published Time: 2026-03-30
 
 ### [The Error: DNS Resolution Fails Inside Containers](https://devopsil.com/articles/2026-03-30-docker-dns-resolution-failure-fix#the-error-dns-resolution-fails-inside-containers)
